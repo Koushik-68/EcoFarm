@@ -1,2 +1,2 @@
 # EcoFarm
-EcoFarm is a Agriculture related website where user can input his soil property like pH value, soil type, colour, etc,. Based on these properties the system will suggests a suitable crops for that soil. It also has other features like weather monitoring, Farm Event manager, Crop Manual, Article, Crop Analysis, etc
+This is a Sustainable Agriculture AI Web App developed using React and Vite. It features an AI-powered chatbot, crop recommendation system, agriculture data analysis, calendar/event manager, and article resources. Based on user input, the system provides smart, tailored suggestions for crops and farming practices. It supports mobile access over the local network and delivers real-time responses via the Gemini API.
